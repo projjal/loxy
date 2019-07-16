@@ -1,1 +1,3 @@
 loxy
+*.crt
+*.key

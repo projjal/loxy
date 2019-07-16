@@ -1,2 +1,2 @@
-# loxy
-loxy is an HTTP proxy server
+# Loxy
+loxy is a Man-in-the-Middle HTTP/HTTPS proxy server.
